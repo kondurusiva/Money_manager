@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border: none;
+  margin-left: 10px;
+}
+
+.table-row {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #cbd5e1;
+  padding-left: 12px;
+}
+
+.delete-container {
+  display: flex;
+  width: 20%;
+}
+
+.transaction-title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 30%;
+}
+
+.transaction-amount {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 30%;
+}
+.transaction-type {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 30%;
+}
+.delete-icon {
+  width: 20px;
+}

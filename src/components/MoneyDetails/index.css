@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.balance {
+  background-color: #ecfccb;
+  padding: 10px;
+  border: 1px solid #84cc16;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 15px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.income {
+  background-color: #cffafe;
+  padding: 10px;
+  border: 1px solid #06b6d4;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 15px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.description {
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.expenses {
+  background-color: #ede9fe;
+  padding: 10px;
+  border: 1px solid #7c3aed;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 15px;
+  border-radius: 10px;
+  width: 30%;
+}
